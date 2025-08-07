@@ -7,6 +7,11 @@ import java.security.KeyStore;
 import java.util.HashMap;
 import java.util.Map;
 
+//MUTONKOLE KAYUMBA GUEZ
+//MWANZA NKONTO ASTRID
+//MANONGO VICTOR MARCEL
+//ILUNGA WA ILUNGA JACQUIE
+//ILUNGA BANZA SARAH
 /**
  * Client messagerie SSL/TLS avec interface graphique Swing.
  *
